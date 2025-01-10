@@ -8,7 +8,7 @@ export const metaData = {
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/parthsuresh96",
+  google_scholar: "https://scholar.google.com/citations?user=X_0IsZwAAAAJ&hl=en",
   github: "https://github.com/parthsuresh",
   linkedin: "https://www.linkedin.com/in/parth-suresh",
   email: "mailto:parthsuresh.work@gmail.com",

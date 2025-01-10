@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { socialLinks } from "./config";
 
 export default function Page() {
   return (
@@ -15,16 +14,15 @@ export default function Page() {
         />
 
       <h1 className="mb-8 text-2xl font-medium tracking-tight">
-        Welcome to my blog!
+        Thoughts and Learnings
       </h1>
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          I'm Parth, currently working as a Machine Learning Research Engineer at Scale AI. Prior to that, I was a Research Data Scientist at Meta.
-          My research interests are in natural language processing and generative AI.
+        Incoming Software Engineer (Machine Learning) at Meta Reality Labs, with previous experience as a Machine Learning Research Engineer at Scale AI and Research Data Scientist at Meta.
         </p>
         <p>
-          I will be posting about my learnings and experiences from my work on AI projects.
+          My research interests are in generative AI, primarily in the areas of synthetic data generation and agentic AI.
         </p>
       </div>
     </section>
