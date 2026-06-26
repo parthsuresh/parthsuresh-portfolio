@@ -2,8 +2,8 @@ import Link from "next/link";
 import { formatDate, getBlogPosts } from "app/lib/posts";
 
 export const metadata = {
-  title: "Blog",
-  description: "Parth's Blog",
+  title: "Writing",
+  description: "Writing by Parth Suresh",
 };
 
 export default function BlogPosts() {
@@ -11,7 +11,7 @@ export default function BlogPosts() {
 
   return (
     <section>
-      <h1 className="mb-8 text-2xl font-medium tracking-tight">Our Blog</h1>
+      <h1 className="mb-8 text-2xl font-medium tracking-tight">Writing</h1>
       <div>
         {allBlogs
           .sort((a, b) => {

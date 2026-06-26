@@ -4,7 +4,7 @@ export const metaData = {
   name: "Parth",
   ogImage: "/opengraph-image.png",
   description:
-    "Portfolio website for Parth Suresh, a machine learning research engineer.",
+    "Parth Suresh, Software Engineer (Machine Learning) at Meta Reality Labs. Works on synthetic data, data curation, and evals.",
 };
 
 export const socialLinks = {

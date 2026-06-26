@@ -13,16 +13,18 @@ export default function Page() {
           priority
         />
 
-      <h1 className="mb-8 text-2xl font-medium tracking-tight">
-        Thoughts and Learnings
-      </h1>
-
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-        Incoming Software Engineer (Machine Learning) at Meta Reality Labs, with previous experience as a Machine Learning Research Engineer at Scale AI and Research Data Scientist at Meta.
+          I am a Software Engineer (Machine Learning) at Meta Reality Labs. I work on
+          synthetic data, data curation, and benchmarks for evaluating language
+          and multimodal models.
         </p>
         <p>
-          My research interests are in generative AI, primarily in the areas of synthetic data generation and agentic AI.
+          Before this, I was an ML research engineer at Scale AI, working on
+          reasoning, synthetic data generation, and LLM judges. Earlier at
+          Meta, I was a research data scientist working at the intersection
+          of developer productivity, software engineering, and machine
+          learning.
         </p>
       </div>
     </section>
